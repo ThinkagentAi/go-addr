@@ -1,4 +1,4 @@
-package addr
+package goaddr
 
 import (
 	"encoding/json"
