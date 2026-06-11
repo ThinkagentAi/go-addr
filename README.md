@@ -182,10 +182,10 @@ demo 覆盖的测试场景：
 15. **县级市/旗** — 义乌、昆山、准格尔旗等
 16. **边界情况** — 空字符串、仅手机号、仅姓名
 
-## 致谢
+## 感谢
 
-- 基于 PHP 版本 [pupuk/addr](https://github.com/pupuk/addr) 改写优化
-- 感谢 [cxy-chenxuanyu](https://github.com/cxy-chenxuanyu) 在省市区解析部分的贡献
+- 本项目基于 go 版本 [pupuk/addr](https://github.com/pupuk/addr) 改写优化
+
 
 ## License
 
