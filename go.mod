@@ -1,3 +1,3 @@
-module github.com/pupuk/addr
+module github.com/ThinkagentAi/goaddr
 
 go 1.11
